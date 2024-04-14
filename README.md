@@ -61,7 +61,6 @@ This script is based off on Jason Labbe's "[Magical Trail Shader](https://openpr
     
     <img src="https://git.pg.edu.pl/p829296/processing-magicaltrailshader-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/magicaltrailshader_animation_example.mp4" />
     
-    
 
 ## Support
 
