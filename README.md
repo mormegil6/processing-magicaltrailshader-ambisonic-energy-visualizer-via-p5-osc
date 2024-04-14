@@ -60,7 +60,7 @@ This will ensure the OSC connectivity between the P5.js script and the other sys
     
 4. Play the audio and observe the animation! :slightly_smiling_face:
 
-<img src="https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4" />
+<img src="https://git.pg.edu.pl/p829296/processing-magicaltrailshader-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/magicaltrailshader_animation_example.mp4" />
 
 
 
