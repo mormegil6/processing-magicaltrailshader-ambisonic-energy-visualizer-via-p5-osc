@@ -1,6 +1,6 @@
 # Processing - MagicalTrailShader ambisonic energy visualizer via p5 osc
 
-This script visualizes ambisonic energy as the so-called "Magical Trail Shader", animating the IEM EnergyVisualizer's OSC messages onto p5.js canvas.
+This script visualizes ambisonic energy as the so-called "Magical Trail Shader", processed with the IEM EnergyVisualizer onto p5.js canvas via OSC messages.
 
 ## Description
 
