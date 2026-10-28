@@ -14,7 +14,7 @@ This script is based off on Jason Labbe's "[Magical Trail Shader](https://openpr
     
 2. Install P5.js mode in the Processing IDE: 
     
-    <img src="https://i.ibb.co/42KnsTT/2024-02-19-01-10-56-Using-OSC-messages-in-Processing-in-p5-js-mode-p5-js-Libraries-Processing.png" width="500" />
+    <img src="docs/images/processing_p5js_mode.png" width="500" />
     
 3. Install [Node.js](https://nodejs.org/)
     
@@ -52,13 +52,13 @@ This script is based off on Jason Labbe's "[Magical Trail Shader](https://openpr
     ```
     This will ensure the OSC connectivity between the P5.js script and the other system apps. Whenever an app connects to the OSC port, the console window will write the "connection" message.
     
-    <img src="https://i.ibb.co/jv77ZkJ/2024-04-14-10-51-17-Power-Shell.png" width="500" />
+    <img src="docs/images/osc_bridge_powershell.png" width="500" />
     
 2. Open the `FrozenBush_p5osc.js` script via the Processing IDE and run it -- it should open a browser window
     
 3. Open the VST host, set up an ambisonic track and add EnergyVisualizer VST plugin. Set up EnergyVisualizer OSC to send messages to the listening port in the Processing script (the default port number for this script is `12001`)
     
-    <img src="https://i.ibb.co/x7L9vTW/2024-04-10-14-46-43-unsaved-project-REAPER-v7-14-Registered-to-Bart-omiej-Mr-z-Licensed-for-p.png" width="500" />
+    <img src="docs/images/reaper_energyvisualizer_osc.png" width="500" />
         
 4. Play the audio and observe the animation! :slightly_smiling_face:
     
